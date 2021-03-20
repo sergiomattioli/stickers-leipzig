@@ -3,8 +3,8 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"club",
-         "name":"Pack Club",
+         "identifier":"bullit",
+         "name":"Bullit",
          "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -95,6 +95,24 @@
             },
             {
                "image_file":"14.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"15.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"16.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"17.webp",
                "emojis":[
                   
                ]
